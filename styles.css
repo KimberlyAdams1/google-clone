@@ -1,7 +1,19 @@
-input{
-    img{ 
-    width: 400px;
-    }
+.main{
+    margin-top: 100px;
+}
+
+
+.search-input{
+    display: block;
+    width: 300px;
     
+
+}
+
+.logo-img{
+    display: block;
+    width: 400;
+}
+
 
 
